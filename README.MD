@@ -4,10 +4,10 @@ A simple statistical simulator that allows to recreate consumer movement in a su
 #Installing
 You'll need node.js and npm
 
-```git clone git@github.com:ALCC01/marketer.git
-cd marketer
-[sudo] npm install
-npm start```
+    git clone git@github.com:ALCC01/marketer.git
+    cd marketer
+    [sudo] npm install
+    npm start
 
 #License
 This software is licensed under GNU General Public License 3.0+.
